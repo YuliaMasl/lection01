@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\bin\Debug\net8.0\example001.exe
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\bin\Debug\net8.0\example001.deps.json
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\bin\Debug\net8.0\example001.runtimeconfig.json
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\bin\Debug\net8.0\example001.dll
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\bin\Debug\net8.0\example001.pdb
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.AssemblyInfo.cs
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.dll
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\refint\example001.dll
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.pdb
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\example001.genruntimeconfig.cache
+C:\Users\User\Desktop\ит\языки программирования\лекция 1\example001\obj\Debug\net8.0\ref\example001.dll
